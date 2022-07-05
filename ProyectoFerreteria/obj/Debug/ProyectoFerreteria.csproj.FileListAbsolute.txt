@@ -1,0 +1,17 @@
+D:\NAYO\TECSUP - 6to ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Proyecto\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.exe.config
+D:\NAYO\TECSUP - 6to ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Proyecto\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.exe
+D:\NAYO\TECSUP - 6to ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Proyecto\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.pdb
+D:\NAYO\TECSUP - 6to ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Proyecto\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.csproj.AssemblyReference.cache
+D:\NAYO\TECSUP - 6to ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Proyecto\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Form1.resources
+D:\NAYO\TECSUP - 6to ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Proyecto\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Properties.Resources.resources
+D:\NAYO\TECSUP - 6to ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Proyecto\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.csproj.GenerateResource.cache
+D:\NAYO\TECSUP - 6to ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Proyecto\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.csproj.CoreCompileInputs.cache
+D:\NAYO\TECSUP - 6to ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Proyecto\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.exe
+D:\NAYO\TECSUP - 6to ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Proyecto\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.pdb
+D:\NAYO\TECSUP - 6to ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Proyecto\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.inicio.resources
+D:\NAYO\TECSUP - 6to ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Proyecto\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.productos.resources
+D:\NAYO\TECSUP - 6to ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Proyecto\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.clientes.resources
+D:\NAYO\TECSUP - 6to ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Proyecto\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.compras.resources
+D:\NAYO\TECSUP - 6to ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Proyecto\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.empleados.resources
+D:\NAYO\TECSUP - 6to ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Proyecto\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.pagos.resources
+D:\NAYO\TECSUP - 6to ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Proyecto\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.ventas.resources
