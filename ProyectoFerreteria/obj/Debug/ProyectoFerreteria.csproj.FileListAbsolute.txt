@@ -15,3 +15,20 @@ D:\NAYO\TECSUP - 6to ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Pro
 D:\NAYO\TECSUP - 6to ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Proyecto\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.empleados.resources
 D:\NAYO\TECSUP - 6to ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Proyecto\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.pagos.resources
 D:\NAYO\TECSUP - 6to ciclo\Desarrollo de Aplicaciones Empresariales Avanzado\Proyecto\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.ventas.resources
+D:\repo\Proyecto\ProyectoWeb\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.exe.config
+D:\repo\Proyecto\ProyectoWeb\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.exe
+D:\repo\Proyecto\ProyectoWeb\ProyectoFerreteria\bin\Debug\ProyectoFerreteria.pdb
+D:\repo\Proyecto\ProyectoWeb\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.csproj.AssemblyReference.cache
+D:\repo\Proyecto\ProyectoWeb\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.clientes.resources
+D:\repo\Proyecto\ProyectoWeb\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.compras.resources
+D:\repo\Proyecto\ProyectoWeb\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.empleados.resources
+D:\repo\Proyecto\ProyectoWeb\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Form1.resources
+D:\repo\Proyecto\ProyectoWeb\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.inicio.resources
+D:\repo\Proyecto\ProyectoWeb\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.pagos.resources
+D:\repo\Proyecto\ProyectoWeb\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.productos.resources
+D:\repo\Proyecto\ProyectoWeb\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.Properties.Resources.resources
+D:\repo\Proyecto\ProyectoWeb\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.ventas.resources
+D:\repo\Proyecto\ProyectoWeb\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.csproj.GenerateResource.cache
+D:\repo\Proyecto\ProyectoWeb\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.csproj.CoreCompileInputs.cache
+D:\repo\Proyecto\ProyectoWeb\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.exe
+D:\repo\Proyecto\ProyectoWeb\ProyectoFerreteria\obj\Debug\ProyectoFerreteria.pdb

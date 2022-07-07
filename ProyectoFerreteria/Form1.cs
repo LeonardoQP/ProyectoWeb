@@ -131,5 +131,15 @@ namespace ProyectoFerreteria
         {
             AbrirFormEnPanel(new pagos());
         }
+
+        private void panelContenedor_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void BarraTitulo_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
